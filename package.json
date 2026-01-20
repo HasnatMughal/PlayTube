@@ -1,0 +1,23 @@
+{
+  "name": "playtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasnatMughal/PlayTube.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Hasnat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasnatMughal/PlayTube/issues"
+  },
+  "homepage": "https://github.com/HasnatMughal/PlayTube#readme",
+  "description": ""
+}
